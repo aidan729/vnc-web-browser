@@ -47,7 +47,7 @@ This project is built using **CMake** and **MSVC** (Microsoft Visual C++) for co
 
 ---
 
-###Project Status
+### Project Status
 
 This project started as a learning demonstration for understanding Qt in preparation for a job opportunity. However, I decied that this could be a fun project to continue working on, so now the repo is now open source and welcoming contributions!
 
