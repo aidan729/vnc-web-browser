@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="icons/close-black.png">C:/Users/Aidan/Documents/QtBrowser/icons/close-black.png</file>
+    <file alias="icons/delete-red.png">C:/Users/Aidan/Documents/QtBrowser/icons/delete-red.png</file>
+    <file alias="icons/duplicated.png">C:/Users/Aidan/Documents/QtBrowser/icons/duplicated.png</file>
+    <file alias="icons/left-arrow.png">C:/Users/Aidan/Documents/QtBrowser/icons/left-arrow.png</file>
+    <file alias="icons/refresh-page-option.png">C:/Users/Aidan/Documents/QtBrowser/icons/refresh-page-option.png</file>
+    <file alias="icons/right-arrow.png">C:/Users/Aidan/Documents/QtBrowser/icons/right-arrow.png</file>
+  </qresource>
+</RCC>
+

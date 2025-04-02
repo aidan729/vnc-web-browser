@@ -1,0 +1,9 @@
+# ninja log v5
+178	1420	7648438572228821	QtBrowser_autogen/timestamp	417064f6f9a7d0d8
+178	1420	7648438572228821	QtBrowser_autogen/mocs_compilation.cpp	417064f6f9a7d0d8
+178	1420	7648438572228821	C:/Users/Aidan/Documents/QtBrowser/build/Desktop_Qt_6_8_2_MSVC2022_64bit-Release/QtBrowser_autogen/timestamp	417064f6f9a7d0d8
+178	1420	7648438572228821	C:/Users/Aidan/Documents/QtBrowser/build/Desktop_Qt_6_8_2_MSVC2022_64bit-Release/QtBrowser_autogen/mocs_compilation.cpp	417064f6f9a7d0d8
+1439	3857	7648438599648060	CMakeFiles/QtBrowser.dir/main.cpp.obj	61af99d73d8bce3f
+1435	3864	7648438599698261	CMakeFiles/QtBrowser.dir/QtBrowser_autogen/mocs_compilation.cpp.obj	4965defa17160803
+1444	4036	7648438601440749	CMakeFiles/QtBrowser.dir/mainwindow.cpp.obj	ba3dd046463b37b8
+4036	4419	7648438604907323	QtBrowser.exe	c51ac8e64f4a0b7b

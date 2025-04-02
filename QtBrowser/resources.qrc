@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/close-black.png</file>
+        <file>icons/delete-red.png</file>
+        <file>icons/duplicated.png</file>
+        <file>icons/left-arrow.png</file>
+        <file>icons/refresh-page-option.png</file>
+        <file>icons/right-arrow.png</file>
+    </qresource>
+</RCC>

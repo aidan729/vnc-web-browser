@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "VNC_Client",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "VNCClient::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-VNCClient-Debug-ccbf92306b07a756fc0c.json",
+					"name" : "VNCClient",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "VNCClient_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-VNCClient_autogen-Debug-be1fc949a39488cf3caa.json",
+					"name" : "VNCClient_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "VNCClient_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-VNCClient_autogen_timestamp_deps-Debug-ed1cba5ee5ffd08c80f3.json",
+					"name" : "VNCClient_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Aidan/Documents/VNC_Client/build/Desktop_Qt_6_8_2_MSVC2022_64bit-Debug",
+		"source" : "C:/Users/Aidan/Documents/VNC_Client"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
